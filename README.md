@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-profile](screens/profile)
 - [react-native-login](modules/login)
 - [screen-forgot-password](screens/forgot-password)
+- [django-push-notifications](backend/modules/push-notifications)
 
 # Getting started: Frontend
 
