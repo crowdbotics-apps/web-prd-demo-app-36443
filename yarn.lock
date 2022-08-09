@@ -1062,6 +1062,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
 "@modules/articles@file:./modules/articles":
   version "1.0.0"
 
@@ -1302,9 +1305,6 @@
     reselect "^4.1.5"
 
 "@screens/account-settings@file:./screens/account-settings":
-  version "1.0.0"
-
-"@screens/account-settings@file:./screens/account-settings/":
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":

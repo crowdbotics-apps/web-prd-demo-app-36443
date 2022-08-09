@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-forgot-password](screens/forgot-password)
 - [django-push-notifications](backend/modules/push-notifications)
 - [privacy-policy]()
+- [react-native-app-menu](modules/app-menu)
 
 # Getting started: Frontend
 
