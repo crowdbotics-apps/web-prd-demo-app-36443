@@ -25,6 +25,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
+    "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/profile": "file:./screens/profile/",
     "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",

@@ -1062,7 +1062,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@modules/app-menu@file:./modules/app-menu/":
+"@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
 "@modules/articles@file:./modules/articles":
@@ -1308,6 +1308,9 @@
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":
+  version "1.0.0"
+
+"@screens/onboarding@file:./screens/onboarding/":
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
