@@ -1299,7 +1299,7 @@
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
-"@screens/forgot-password@file:./screens/forgot-password/":
+"@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
